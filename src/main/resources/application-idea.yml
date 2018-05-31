@@ -1,0 +1,13 @@
+spring:
+  redis:
+      host: 192.168.3.60
+      port: 6379
+  portalDS:
+      url: jdbc:mysql://rm-bp17z51126541217ao.mysql.rds.aliyuncs.com:3306/db_bei_diao?characterEncoding=utf-8&autoReconnect=true&failOverReadOnly=false
+      username: testwidoli
+      password: BtPmSnntWneX@
+      driverClassName : com.mysql.jdbc.Driver
+      test-on-borrow: false
+      test-while-idle: true
+      time-between-eviction-runs-millis: 3600000
+
