@@ -31,7 +31,6 @@ public final class WeixinBuilder {
 
     /**
      * 获取一个新的微信构建器
-     *
      * @return 微信构造器
      */
     public static WeixinBuilder newInstance() {

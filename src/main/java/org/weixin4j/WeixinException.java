@@ -20,7 +20,6 @@
 package org.weixin4j;
 
 /**
- *
  * 微信操作全局异常
  */
 public class WeixinException extends Exception {
