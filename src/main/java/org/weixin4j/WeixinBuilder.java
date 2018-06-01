@@ -41,7 +41,6 @@ public final class WeixinBuilder {
 
     /**
      * 获取一个新的微信构建器
-     *
      * @param appId 微信开发者appId
      * @param secret 微信开发者secret
      * @return 微信构造器
@@ -54,7 +53,6 @@ public final class WeixinBuilder {
 
     /**
      * 配置access_token加载器
-     *
      * @param tokenLoader token加载器
      * @return return this
      */
@@ -68,7 +66,6 @@ public final class WeixinBuilder {
 
     /**
      * 配置ticket加载器
-     *
      * @param ticketLoader ticket加载器
      * @return return this
      */
